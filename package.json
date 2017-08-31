@@ -2,7 +2,6 @@
   "name": "cordova-plugin-operate-plist",
   "version": "0.0.4",
   "description": "**Cordova / PhoneGap 读写Plist文件插件**：具备读、写、拷贝Plist文件功能",
-  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
