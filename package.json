@@ -1,0 +1,19 @@
+{
+  "name": "cordova-plugin-operate-plist-test",
+  "version": "0.0.4",
+  "description": "**Cordova / PhoneGap 读写Plist文件插件**：具备读、写、拷贝Plist文件功能",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hackpar/cordova-plugin-operate-plist-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hackpar/cordova-plugin-operate-plist-test/issues"
+  },
+  "homepage": "https://github.com/hackpar/cordova-plugin-operate-plist-test#readme"
+}
